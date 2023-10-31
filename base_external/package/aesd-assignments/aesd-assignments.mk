@@ -9,7 +9,6 @@ AESD_ASSIGNMENTS_SITE = git@github.com:cu-ecen-aeld/assignments-3-and-later-beta
 
 $(eval AESD_ASSIGNMENTS_VERSION=$(shell git ls-remote $(AESD_ASSIGNMENTS_SITE) | grep HEAD | cut -f 1))
 
-
 AESD_ASSIGNMENTS_SITE_METHOD = git
 AESD_ASSIGNMENTS_GIT_SUBMODULES = YES
 
