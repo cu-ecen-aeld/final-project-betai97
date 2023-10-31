@@ -9,6 +9,7 @@ LDD_SITE = git@github.com:cu-ecen-aeld/assignment-7-betai97.git
 
 $(eval LDD_VERSION=$(shell git ls-remote $(LDD_SITE) | grep HEAD | cut -f 1))
 
+
 LDD_SITE_METHOD = git
 LDD_GIT_SUBMODULES = YES
 
