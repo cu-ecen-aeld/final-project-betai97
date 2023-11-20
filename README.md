@@ -1,5 +1,10 @@
-# Overview
+# AESD ECEN5713 Final Project - Fall 2023
 
-This repository contains assignment starter code for buildroot based assignments for the course Advanced Embedded Software Design, ECEN 5713
+## Project Overview
+Can be found here: https://github.com/cu-ecen-aeld/final-project-betai97/wiki/Project-Overview
 
-It also contains instructions related to modifying your buildroot project to use with supported hardware platforms.  See [this wiki page](https://github.com/cu-ecen-5013/buildroot-assignments-base/wiki/Supported-Hardware) for details.
+## Project Schedule
+Can be found here: https://github.com/users/betai97/projects/1/views/1?groupedBy%5BcolumnId%5D=64661701
+
+## Team Members
+- Me, myself and I
